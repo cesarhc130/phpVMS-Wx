@@ -2,7 +2,7 @@ phpVMS-Wx
 
 phpVMS-WX is a weather module for phpVMS
 Proudly coded for Air Anatolia VA
-phpVMS-Metar module is licenced under the following license:
+phpVMS-Wx module is licenced under the following license:
 Creative Commons Attribution Non-commercial Share Alike (by-nc-sa)
 For license text, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
 
